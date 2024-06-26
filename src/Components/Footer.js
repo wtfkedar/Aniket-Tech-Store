@@ -51,7 +51,7 @@ function footer(props)
                             <h6 className="footer-address"> Lorem Ipsum Blvd. 1234 </h6>
                             <h6 className="footer-address"> Dolor Town, Sit Amet County </h6>
                             <h6 className="footer-address"> Haifa, Israel 1700081 </h6>
-                            <a href="http://github.com/alonilk2" className="abdev-link"><img src={abdevlogo} className="abdev-logo" /></a>
+                            <a href="http://github.com/wtfkedar" className="kedar"><img src={abdevlogo} className="kedar" /></a>
                         </div>
                     </div>
                 </div>
