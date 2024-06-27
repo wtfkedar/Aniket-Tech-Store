@@ -48,9 +48,9 @@ function footer(props)
                         </div>
                         <div className="row footer-address-container">
                             <h6 className="footer-address"> TechStore inc. </h6>
-                            <h6 className="footer-address"> Lorem Ipsum Blvd. 1234 </h6>
-                            <h6 className="footer-address"> Dolor Town, Sit Amet County </h6>
-                            <h6 className="footer-address"> Haifa, Israel 1700081 </h6>
+                            <h6 className="footer-address"> S . T Colony  </h6>
+                            <h6 className="footer-address"> Bajajnagar , Aurangabad </h6>
+                            <h6 className="footer-address"> India </h6>
                            
                         </div>
                     </div>
